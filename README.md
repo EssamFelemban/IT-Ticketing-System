@@ -37,6 +37,12 @@ No installation needed – just open the HTML file.
 
 Data saved automatically (until browser cache is cleared).
 
+
+
+https://github.com/user-attachments/assets/55660f98-0439-4270-b001-88585090b60d
+
+
+
 Why It’s Useful
 ✔ Simple – No complex software.
 ✔ Fast – Log issues in seconds.
